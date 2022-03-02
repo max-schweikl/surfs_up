@@ -6,8 +6,10 @@ The goal of this analysis is to see temperature statistics for Hawaii in both Ju
 ## Results
 
 ### June Summary Statistics
+![](June.png)
 
 ### December Summary Statistics
+![](December.png)
 
 In reviewing both June and December summary statistics, the following conclusions can be drawn:
   1) The average temperature in June is 75 degrees, while in December the average temperature is 71 degrees.  This shows that the temperature, on average, was mostly similar between the two months.
